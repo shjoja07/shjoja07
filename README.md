@@ -12,7 +12,7 @@ I am a software engineering student, currently halfway through my degree. I am e
 - 🐧 Looking forward to collaborate on open source projects.
 - ✔ Always ready to help<br>
 - Outside tech, 🤑I'm sorta streming on Kick, 🎮 playing videogames, 🎵 listening to music, and 📖 reading software related books.
-- 👾 Feel free to contact me anytime!
+- 😙 Feel free to contact me anytime!
 
 ## My Skills Include
 
@@ -24,10 +24,6 @@ I am a software engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
- 
-
-
-</span>
 
 
 
