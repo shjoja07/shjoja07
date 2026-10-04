@@ -11,7 +11,7 @@ I am a software engineering student, currently halfway through my degree. I am e
   - CSS
 - 🐧 Looking forward to collaborate on open source projects.
 - ✔ Always ready to help<br>
-- Outside tech, 🤑I'm sorta streming on Kick, 🎮 playing videogames, 🎵 listening to music, and 📖 reading software related books.
+- Outside tech, 🤑I'm sorta streaming on Kick, 🎮 playing videogames, 🎵 listening to music, and 📖 reading software related books.
 - 😙 Feel free to contact me anytime!
 
 ## My Skills Include
