@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/0Tk6x17cIHUAAAAM/goku-super-saiyajin.gif" />
 
-<img src="https://media.tenor.com/q20HPBH19u0AAAAM/ghost-face-wazaaaa.gif" width="30px">&nbsp;***So... what?***
+<img src="https://media.tenor.com/q20HPBH19u0AAAAM/ghost-face-wazaaaa.gif" width="30px">&nbsp;***Wassuuuuup***
 
 I am a software engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development as I dip into streaming.
 - 👻 Currently learning
