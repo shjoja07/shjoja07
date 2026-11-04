@@ -1,8 +1,8 @@
-<h1 align="center"><b>From JoJa , to you </b><img src="https://i.pinimg.com/originals/88/e8/46/88e846de93eb7d31eae1b5eb26e3c25b.gif" width="35"></h1>
+<h1 align="center"><b>From JoJa , to you </b><img src="https://static.wikia.nocookie.net/typemoon/images/b/bc/Neco-arc_MBAA.png/revision/latest?cb=20241005234354" width="35"></h1>
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://media.tenor.com/0Tk6x17cIHUAAAAM/goku-super-saiyajin.gif" />
 
-<img src="https://media.tenor.com/q20HPBH19u0AAAAM/ghost-face-wazaaaa.gif" width="30px">&nbsp;***Wassuuuuup***
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Pokebola-pokeball-png-0.png" width="30px">&nbsp;***Yo, what's good?***
 
 I am a software engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development as I dip into streaming.
 - 👻 Currently learning
