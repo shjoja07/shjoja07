@@ -10,7 +10,7 @@
 
 ## My Skills Include
 
-<img align="right" width="300px" alt="cartoon" src="https://c.tenor.com/0Tk6x17cIHUAAAAC/tenor.gif" />
+<img align="right" width="300px" alt="cartoon" src="https://github.com/shjoja07/shjoja07/blob/main/gokussj.gif?raw=true&v=3" />
 
 <h4> Languages </h4>
 <span>
