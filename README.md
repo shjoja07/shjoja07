@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/36/7e/81/367e811f5937d17193fe39cbec41322a.gif" width="100%" alt="banner" align="absmiddle"><br>
+  <img src="nekoarc.gif" width="100%" alt="banner" align="absmiddle"><br>
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=32&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=240&height=32&lines=Just+JoJa" alt="Just JoJa" align="absmiddle"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" align="absmiddle"><br>
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=260&height=22&lines=Software+Engineering+Student" alt="Software Engineering Student" align="absmiddle">&emsp;&emsp;&ensp;
 </p>
