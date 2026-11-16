@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://github.com/shjoja07/shjoja07/blob/main/nekoarc.gif?raw=true&v=3" width="100%" alt="banner" align="absmiddle"><br>
+  <img src="https://raw.githubusercontent.com/shjoja07/shjoja07/main/nekoarc.gif?v=3" width="100%" alt="banner" align="absmiddle"><br>
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=32&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=240&height=32&lines=Just+JoJa" alt="Just JoJa" align="absmiddle"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38" align="absmiddle"><br>
   <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&duration=1&pause=100000&color=FFFFFF&center=true&vCenter=true&width=260&height=22&lines=Software+Engineering+Student" alt="Software Engineering Student" align="absmiddle">&emsp;&emsp;&ensp;
 </p>
 
 ## <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=26&duration=1&pause=100000&color=FFFFFF&center=false&vCenter=true&width=220&height=30&lines=Streak+Stats" alt="Streak Stats" align="absmiddle">
 
-<p align="center"><img src="https://streak-stats.demolab.com/?user=Marlonnbp&background=2A050A&border=FFFFFF&stroke=FFFFFF32&ring=E63946&fire=E63946&currStreakNum=2DDE98&sideNums=E63946&currStreakLabel=2DDE98&sideLabels=E63946&dates=FFFFFF&v=4" alt="Marlonnbp streak" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com/?user=shjoja07&background=2A050A&border=FFFFFF&stroke=FFFFFF32&ring=E63946&fire=E63946&currStreakNum=2DDE98&sideNums=E63946&currStreakLabel=2DDE98&sideLabels=E63946&dates=FFFFFF&v=4" alt="shjoja07 streak" /></p>
 
 ## My Skills Include
 
-<img align="right" width="300px" alt="cartoon" src="https://github.com/shjoja07/shjoja07/blob/main/gokussj.gif?raw=true&v=3" />
+<img align="right" width="300px" alt="cartoon" src="https://raw.githubusercontent.com/shjoja07/shjoja07/main/gokussj.gif?v=3" />
 
 <h4> Languages </h4>
 <span>
